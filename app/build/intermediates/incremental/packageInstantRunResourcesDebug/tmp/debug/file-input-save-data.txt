@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Oct 17 17:50:31 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Jinang\\Anna2.0-master\\app\\build\\intermediates\\assets\\debug
+0.path=databases/Annadb.db
+0.set=ASSET
+count=1
