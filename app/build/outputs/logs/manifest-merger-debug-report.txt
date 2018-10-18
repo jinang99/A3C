@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [com.github.mancj:MaterialSearchBar:0.7.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.1.aar\8b45895ca67762acbe5e2affc9a89d57\AndroidManifest.xml:2:1-17:12
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\lib-1.0.2.aar\3cdcd1c5a71ce048aee85e5d773415ac\AndroidManifest.xml:2:1-19:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f4d69947906467068fb63389e6027bb0\AndroidManifest.xml:17:1-31:12
@@ -40,20 +40,20 @@ MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JINANG
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd12e99af0d53393455366bf3ef4ad71\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\f8bfb345a08bbc4863560cd1d56877ae\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a5c7b83caa6d7cd1c6c6d843c78c3215\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:2:11-69
@@ -74,7 +74,7 @@ MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\J
 	android:name
 		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:7:5-31:19
+ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:7:5-36:19
 MERGED from [com.github.mancj:MaterialSearchBar:0.7.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.1.aar\8b45895ca67762acbe5e2affc9a89d57\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.mancj:MaterialSearchBar:0.7.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.1.aar\8b45895ca67762acbe5e2affc9a89d57\AndroidManifest.xml:11:5-15:19
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\lib-1.0.2.aar\3cdcd1c5a71ce048aee85e5d773415ac\AndroidManifest.xml:11:5-17:19
@@ -196,9 +196,17 @@ ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:29:9-42
 	android:name
 		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:29:19-39
 activity#com.example.anna.OrderStatus
-ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:30:9-58
+ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:30:9-49
 	android:name
 		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:30:19-46
+service#com.example.anna.Service.ListenOrder
+ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:32:9-35:47
+	android:enabled
+		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml:33:13-48
 uses-sdk
 INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Jinang\Anna2.0-master\app\src\main\AndroidManifest.xml

@@ -47,6 +47,11 @@
         <activity android:name="com.example.anna.Cart" />
         <activity android:name="com.example.anna.OrderStatus" />
 
+        <service
+            android:name="com.example.anna.Service.ListenOrder"
+            android:enabled="true"
+            android:exported="true" />
+
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />

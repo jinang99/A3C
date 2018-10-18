@@ -21,6 +21,7 @@ import android.widget.Toast;
 
 import com.example.anna.Common.Common;
 import com.example.anna.Interface.ItemClickListener;
+import com.example.anna.Service.ListenOrder;
 import com.example.anna.ViewHolder.MenuViewHolder;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.database.DatabaseReference;
@@ -72,6 +73,10 @@ public class Home extends AppCompatActivity
         layoutManager = new LinearLayoutManager(this);
         recycler_menu.setLayoutManager(layoutManager);
         loadMenu();
+
+        //Serviceee for notification
+        Intent service = new Intent(Home.this, ListenOrder.class);
+        startService(service);
     }
 
     private void loadMenu() {
